@@ -55,7 +55,7 @@ https://huggingface.co/spaces/JohnJoelMota/AI-FINAL-PROJECT
 
 Note: It may take a few seconds to load initially.
 
-###📊 Features
+### 📊 Features
 Upload your own images or try built-in examples
 
 Choose between Object Detection or Segmentation
