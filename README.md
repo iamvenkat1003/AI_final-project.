@@ -73,10 +73,4 @@ Get visual and textual analysis of the results
 ---
 
 ## Project Structure
-
-vision-showdown/
-│
-├── app.py              # Full Gradio web app
-├── requirements.txt    # Required packages (optional)
-├── README.md           # This file
-└── TEST_IMG_x.jpg      # Sample images for demo
+<pre> vision-showdown/ │ ├── app.py # Full Gradio web app ├── requirements.txt # Required Python packages ├── README.md # Project documentation (this file) └── TEST_IMG_x.jpg # Sample images used in the app </pre>
