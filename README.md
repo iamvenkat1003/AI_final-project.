@@ -1,11 +1,11 @@
 
-# 🧠 AI Vision Showdown: ConvNets vs Transformers
+# AI Vision Showdown: ConvNets vs Transformers
 
 Welcome to **AI Vision Showdown**, an interactive web app where modern deep learning models compete head-to-head in computer vision tasks. Users upload images, select a task (Object Detection or Segmentation), and observe two powerful architectures—**ConvNets** and **Transformers**—battle it out with real-time visual results and performance scores.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project compares convolutional neural networks (CNNs) and transformer-based models for two major vision tasks:
 
@@ -18,17 +18,17 @@ This demo encourages users to learn the practical differences between CNN and Tr
 
 ---
 
-## 🛠️ Tools, Models, and Frameworks Used
+## Tools, Models, and Frameworks Used
 
-### 🔍 Object Detection:
+###  Object Detection:
 - **ConvNet Model**: `torchvision.models.detection.fasterrcnn_resnet50_fpn`
 - **Transformer Model**: [`facebook/detr-resnet-50`](https://huggingface.co/facebook/detr-resnet-50)
 
-### 🖼️ Instance Segmentation:
+### Instance Segmentation:
 - **ConvNet Model**: `torchvision.models.detection.maskrcnn_resnet50_fpn`
 - **Transformer Model**: [`facebook/mask2former-swin-small-coco-instance`](https://huggingface.co/facebook/mask2former-swin-small-coco-instance)
 
-### 🧰 Frameworks:
+### Frameworks:
 - [Gradio](https://www.gradio.app) – For building the interactive user interface
 - [PyTorch](https://pytorch.org) – For model inference
 - [Torchvision](https://pytorch.org/vision/stable/index.html) – For pretrained ConvNet models
@@ -37,9 +37,9 @@ This demo encourages users to learn the practical differences between CNN and Tr
 
 ---
 
-## 🚀 How to Run the App Locally
+## How to Run the App Locally
 
-### ✅ Install Requirements
+### Install Requirements
 pip install torch torchvision transformers gradio matplotlib
 
 
@@ -49,8 +49,8 @@ Once launched, open your browser and go to http://127.0.0.1:7860 on the browser.
 
 ---
 
-# 🌐 Live Demo
-## 🎯 Try it now on Hugging Face Spaces
+#  Live Demo
+## Try it now on Hugging Face Spaces
 https://huggingface.co/spaces/JohnJoelMota/AI-FINAL-PROJECT
 
 Note: It may take a few seconds to load initially.
