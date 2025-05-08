@@ -49,8 +49,9 @@ To Run the App
 python app.py
 Once launched, open your browser and go to http://127.0.0.1:7860 on the browser.
 
+---
 
-##🌐 Live Demo
+#🌐 Live Demo
 🎯 Try it now on Hugging Face Spaces
 https://huggingface.co/spaces/JohnJoelMota/AI-FINAL-PROJECT
 
