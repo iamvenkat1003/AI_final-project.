@@ -74,3 +74,15 @@ Get visual and textual analysis of the results
 
 ## Project Structure
 <pre> vision-showdown/ │ ├── app.py # Full Gradio web app ├── requirements.txt # Required Python packages ├── README.md # Project documentation (this file) └── TEST_IMG_x.jpg # Sample images used in the app </pre>
+
+---
+
+## Contributors
+Venkateswarareddy Satti
+
+John Joel Mota
+
+Moditha Lekkala Chowdary
+
+Nitesh Kumar Datta Vemanapalli
+
