@@ -40,9 +40,11 @@ This demo encourages users to learn the practical differences between CNN and Tr
 ## How to Run the App Locally
 
 ### Install Requirements
+we can either do
+pip install -r requirements.txt
 pip install torch torchvision transformers gradio matplotlib
 
-
+##  To Run the App
 To Run the App
 python app.py
 Once launched, open your browser and go to http://127.0.0.1:7860 on the browser.
