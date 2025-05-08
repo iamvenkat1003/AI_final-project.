@@ -78,9 +78,10 @@ Get visual and textual analysis of the results
 ---
 
 ## Contributors
-Venkateswarareddy Satti
 
 John Joel Mota
+
+Venkateswarareddy Satti
 
 Moditha Lekkala Chowdary
 
