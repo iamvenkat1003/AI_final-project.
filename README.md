@@ -51,13 +51,13 @@ Once launched, open your browser and go to http://127.0.0.1:7860 on the browser.
 
 ---
 
-#🌐 Live Demo
-🎯 Try it now on Hugging Face Spaces
+# 🌐 Live Demo
+## 🎯 Try it now on Hugging Face Spaces
 https://huggingface.co/spaces/JohnJoelMota/AI-FINAL-PROJECT
 
 Note: It may take a few seconds to load initially.
 
-##📊 Features
+###📊 Features
 Upload your own images or try built-in examples
 
 Choose between Object Detection or Segmentation
@@ -70,8 +70,9 @@ Vote on which model performed better
 
 Get visual and textual analysis of the results
 
+---
 
-##Project Structure
+## Project Structure
 
 vision-showdown/
 │
