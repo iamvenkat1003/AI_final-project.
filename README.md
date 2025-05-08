@@ -1,5 +1,3 @@
-# AI_final-project.
-
 
 # 🧠 AI Vision Showdown: ConvNets vs Transformers
 
